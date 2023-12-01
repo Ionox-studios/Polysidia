@@ -269,14 +269,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Ionox Ior - conceptualization, coding\nEric Nielsonn - conceptualization,
+  m_text: "Conor Cox - conceptualization, coding\nEric Howard-Nelson - conceptualization,
     art assets, writing, sound design\nAliza Le - conceptulization, art assets, writing,
     coding\nLillian Yamada - Title page, conceptualization\nTidami_art -Title page,
-    conceptualization\n\n[www.dafont.com]\n   - Dash-Digital-7\n   - Runescape UI\n\n[www.Freesound.org]\n  
-    - xxx\n   - xxx"
+    conceptualization\nStanley\n\n[www.dafont.com]\n   - Dash-Digital-7,  Runescape
+    UI, Pixeled\n\n[www.Freesound.org]\n[sophiehall3535] Alarm.wav\r\n[MadMaxSFX]
+    processed swish, swoosh, whoosh\r\n[magnuswaker] Pistol Blast 1\r\n[PearceWilsonKing]
+    Announcement sound\r\n[littlerainyseasons] slurp\r\n[robbnix] cheap-keyboard-typing-free-sound-effect\r\n[rthijs]
+    hospital_hallway_waiting_room\r\n[craigglenday] pouring-a-fizzy-drink\r\n[rudmer_rotteveel]
+    pill-bottle-grab"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: cd3434e396fbe9a43aaa48c38b46af84, type: 2}
-  m_sharedMaterial: {fileID: -619451076441340349, guid: cd3434e396fbe9a43aaa48c38b46af84, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -300,8 +304,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

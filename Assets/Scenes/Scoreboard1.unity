@@ -1193,8 +1193,8 @@ MonoBehaviour:
   scoreCardManager: {fileID: 936375832}
   total: 0
   stars: 0
-  starThreshold: 2
-  patientThreshold: 2
+  starThreshold: 3
+  patientThreshold: 4
 --- !u!4 &1980230302
 Transform:
   m_ObjectHideFlags: 0
