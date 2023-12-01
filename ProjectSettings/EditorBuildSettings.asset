@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 39a5b282751bd344b80bfea5e18192ad
+  - enabled: 1
+    path: Assets/Scenes/TUTORIAL.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/DAY1.unity
+    guid: 34e7a48c74a892447a7c794c07850f8e
+  - enabled: 1
+    path: Assets/Scenes/Scoreboard1.unity
+    guid: 7e8684f0a30f76b4b8d1379933d8f6d3
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: 19f33ed772f0c9b40a8f876763fe6276
+  - enabled: 1
+    path: Assets/Scenes/RichEnding.unity
+    guid: b37927fda8af5dc4393327395f49058e
+  - enabled: 1
+    path: Assets/Scenes/PoorEnding.unity
+    guid: 601b3c8bd0cae7a40a03cec665d69b07
+  - enabled: 1
+    path: Assets/Scenes/StanleyEnding.unity
+    guid: be879700326246c4eac4538c9ae1f6f2
+  m_configObjects: {}

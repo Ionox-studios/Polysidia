@@ -1,0 +1,1421 @@
+fileFormatVersion: 2
+guid: 4919f707a9d2e9348a16042195cdcb3d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 0
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638356806087312986
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Base Random Portrait
+    originalName: 
+    pivot: {x: 0.3048246, y: -0.2881041}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 456
+      height: 538
+    spriteID: 1b0a9eff77dd90644972e41e89c5b9e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Scar 5
+    originalName: 
+    pivot: {x: 0.29523796, y: -6.193548}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1625
+      y: 4
+      width: 105
+      height: 93
+    spriteID: 1ef92b1fe2915974bbf212ccc987d93b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1625, y: 4}
+  - name: Scar 4
+    originalName: 
+    pivot: {x: 0.2631579, y: -39.13333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 2021
+      width: 76
+      height: 15
+    spriteID: ec140edb1e0ec3645bf60fb77d40b603
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 2021}
+  - name: Scar 3
+    originalName: 
+    pivot: {x: 0.35135147, y: -5.568421}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1056
+      y: 1941
+      width: 111
+      height: 95
+    spriteID: eeaf1256606296944a231a6308d0e94e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1056, y: 1941}
+  - name: Scar 2
+    originalName: 
+    pivot: {x: 0.3265307, y: -15.179487}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 1892
+      width: 98
+      height: 39
+    spriteID: 4cecb38149281ae43bd4a751d8cc818d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 1892}
+  - name: Scar 1
+    originalName: 
+    pivot: {x: 1.4000015, y: -5.1926603}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 1714
+      width: 10
+      height: 109
+    spriteID: a148fa3f3cf527541a6c0801086059cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 1714}
+  - name: Clothes 13
+    originalName: 
+    pivot: {x: 0.4561403, y: -0.4604905}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 317
+      width: 342
+      height: 367
+    spriteID: cede3154dc42f384d901a95665d9af01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 317}
+  - name: Clothes 12
+    originalName: 
+    pivot: {x: 0.45744684, y: -0.4386423}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 938
+      width: 376
+      height: 383
+    spriteID: 1a6ef358fc875a34983f7caffcf5a638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 938}
+  - name: Clothes 11
+    originalName: 
+    pivot: {x: 0.45510837, y: -0.4657534}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 1462
+      width: 323
+      height: 365
+    spriteID: 3dd2a6f4154c94e41844f9d663bb1006
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 1462}
+  - name: Clothes 10
+    originalName: 
+    pivot: {x: 0.47560972, y: -0.49415207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1183
+      y: 671
+      width: 328
+      height: 342
+    spriteID: 6251fce1a8c78fa4391819842567e4f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1183, y: 671}
+  - name: Clothes 9
+    originalName: 
+    pivot: {x: 0.41530055, y: -0.44827586}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1329
+      width: 366
+      height: 377
+    spriteID: d8e6b75751725cf4b8f577763c4f6408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1329}
+  - name: Clothes 8
+    originalName: 
+    pivot: {x: 0.40336138, y: -0.4530831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 700
+      width: 357
+      height: 373
+    spriteID: 5fe25fce210661a4ba2d310cbb445fc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 700}
+  - name: Clothes 7
+    originalName: 
+    pivot: {x: 0.40336138, y: -0.45066667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 317
+      width: 357
+      height: 375
+    spriteID: 80a14a4c20f7c7d44ae1758ebecfab94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 317}
+  - name: Clothes 6
+    originalName: 
+    pivot: {x: 0.4447949, y: -0.44155842}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 1069
+      width: 317
+      height: 385
+    spriteID: 6343778a6fe1b1442ab6619ac5fca36f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 1069}
+  - name: Clothes 5
+    originalName: 
+    pivot: {x: 0.4670487, y: -0.4884393}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1183
+      y: 317
+      width: 349
+      height: 346
+    spriteID: 005b5e0d416626249b5501c07168760f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1183, y: 317}
+  - name: Clothes 4
+    originalName: 
+    pivot: {x: 0.439759, y: -0.4579946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 692
+      width: 332
+      height: 369
+    spriteID: 1ff457f868eb89046b5e0a31f77b5899
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 692}
+  - name: Clothes 3
+    originalName: 
+    pivot: {x: 0.40336138, y: -0.4530831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 1081
+      width: 357
+      height: 373
+    spriteID: 905f2807faeaf7f4d9c93e004ebe9353
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 1081}
+  - name: Clothes 2
+    originalName: 
+    pivot: {x: 0.36507934, y: -0.42894736}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 550
+      width: 441
+      height: 380
+    spriteID: eb8b4dcb753e0f94191687d685937e78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 550}
+  - name: Clothes 1
+    originalName: 
+    pivot: {x: 0.40449443, y: -0.45945945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 1462
+      width: 356
+      height: 370
+    spriteID: 43e585ce4082aa5459bf0f76cb0df020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 1462}
+  - name: Hair 12
+    originalName: 
+    pivot: {x: 0.41818193, y: -3.1647062}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1714
+      width: 165
+      height: 170
+    spriteID: cc44230a6ccff664488ce6d7f7ea2ef4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1714}
+  - name: Hair 11
+    originalName: 
+    pivot: {x: -0.45000076, y: -16.463415}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 1939
+      width: 20
+      height: 41
+    spriteID: f1807ee6bef571541990db76dddbd047
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 1939}
+  - name: Hair 10
+    originalName: 
+    pivot: {x: 0.4078948, y: -3.355828}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 623
+      y: 1840
+      width: 152
+      height: 163
+    spriteID: db064db54b70bec44b703f2192bbf465
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 623, y: 1840}
+  - name: Hair 9
+    originalName: 
+    pivot: {x: 0.39849615, y: -5.728972}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1335
+      y: 4
+      width: 133
+      height: 107
+    spriteID: 645b9ba4a772575409f4bf294ddc249d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1335, y: 4}
+  - name: Hair 8
+    originalName: 
+    pivot: {x: 0.4325581, y: -2.9887006}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 1835
+      width: 215
+      height: 177
+    spriteID: b4096bc4f31e7e744adfe62208bd0385
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 833, y: 1835}
+  - name: Hair 7
+    originalName: 
+    pivot: {x: 0.4042554, y: -7.1494246}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1476
+      y: 4
+      width: 141
+      height: 87
+    spriteID: cb93bd4006a77ae4eb47b9b18f808361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1476, y: 4}
+  - name: Hair 6
+    originalName: 
+    pivot: {x: 0.35971224, y: -4.8842974}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 211
+      y: 1892
+      width: 139
+      height: 121
+    spriteID: 5c3d4550ea9323b4fb8c7a6b826b8e5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 211, y: 1892}
+  - name: Hair 5
+    originalName: 
+    pivot: {x: 0.3790323, y: -4.957983}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1203
+      y: 4
+      width: 124
+      height: 119
+    spriteID: 7b184f2cd513a9144a05ab3e72c3b96a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1203, y: 4}
+  - name: Hair 4
+    originalName: 
+    pivot: {x: 0.36521748, y: -6.122449}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1056
+      y: 1835
+      width: 115
+      height: 98
+    spriteID: b0f8e0d02afd77541af217ccdfb03166
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1056, y: 1835}
+  - name: Hair 3
+    originalName: 
+    pivot: {x: 0.462585, y: -2.8138297}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 1840
+      width: 147
+      height: 188
+    spriteID: dc0c7e027f9554e4697efcbd943782e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 1840}
+  - name: Hair 2
+    originalName: 
+    pivot: {x: 0.48241198, y: -1.7764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1714
+      width: 199
+      height: 255
+    spriteID: 84d86e66f5d3cc14099e085d622e09b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1714}
+  - name: Hair 1
+    originalName: 
+    pivot: {x: 0.37190083, y: -12.058824}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1977
+      width: 121
+      height: 51
+    spriteID: d0550dbbc09a0fc4ca3eb10fda80bd42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1977}
+  - name: Cybernetic Neural Interface
+    originalName: 
+    pivot: {x: 2.0526326, y: -14.255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 1988
+      width: 19
+      height: 43
+    spriteID: 3cd4bd85432dbc645b98d89770e724ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 1988}
+  - name: Cybernetic Eye
+    originalName: 
+    pivot: {x: 0.7222225, y: -12.934783}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 1977
+      width: 54
+      height: 46
+    spriteID: 2b89bd4a092c9a74f941722d6200e0c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 1977}
+  - name: Cybernetic Arm
+    originalName: 
+    pivot: {x: 0.5557084, y: -0.4852459}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 4
+      width: 727
+      height: 305
+    spriteID: c04f9e593a9f2094b855aafa80581f6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1393926333
+    name: Base Random Portrait
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Base Random Portrait
+      frameIndex: 0
+      cellRect:
+        x: 501
+        y: 155
+        width: 456
+        height: 538
+      spriteId: 1b0a9eff77dd90644972e41e89c5b9e4
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 1
+    guid: 1113697805
+    name: Scar 5
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Scar 5
+      frameIndex: 0
+      cellRect:
+        x: 609
+        y: 576
+        width: 105
+        height: 93
+      spriteId: 1ef92b1fe2915974bbf212ccc987d93b
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 2
+    guid: -2146336151
+    name: Scar 4
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Scar 4
+      frameIndex: 0
+      cellRect:
+        x: 620
+        y: 587
+        width: 76
+        height: 15
+      spriteId: ec140edb1e0ec3645bf60fb77d40b603
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 3
+    guid: -800934959
+    name: Scar 3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Scar 3
+      frameIndex: 0
+      cellRect:
+        x: 601
+        y: 529
+        width: 111
+        height: 95
+      spriteId: eeaf1256606296944a231a6308d0e94e
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 4
+    guid: 233998389
+    name: Scar 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Scar 2
+      frameIndex: 0
+      cellRect:
+        x: 608
+        y: 592
+        width: 98
+        height: 39
+      spriteId: 4cecb38149281ae43bd4a751d8cc818d
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 5
+    guid: 1268931733
+    name: Scar 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 1
+    cells:
+    - name: Scar 1
+      frameIndex: 0
+      cellRect:
+        x: 626
+        y: 566
+        width: 10
+        height: 109
+      spriteId: a148fa3f3cf527541a6c0801086059cf
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 6
+    guid: 727316596
+    name: Clothes 13
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 13
+      frameIndex: 0
+      cellRect:
+        x: 484
+        y: 169
+        width: 342
+        height: 367
+      spriteId: cede3154dc42f384d901a95665d9af01
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 7
+    guid: 1762249942
+    name: Clothes 12
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 12
+      frameIndex: 0
+      cellRect:
+        x: 468
+        y: 168
+        width: 376
+        height: 383
+      spriteId: 1a6ef358fc875a34983f7caffcf5a638
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 8
+    guid: -1497784008
+    name: Clothes 11
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 11
+      frameIndex: 0
+      cellRect:
+        x: 493
+        y: 170
+        width: 323
+        height: 365
+      spriteId: 3dd2a6f4154c94e41844f9d663bb1006
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 9
+    guid: -462850682
+    name: Clothes 10
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 10
+      frameIndex: 0
+      cellRect:
+        x: 484
+        y: 169
+        width: 328
+        height: 342
+      spriteId: 6251fce1a8c78fa4391819842567e4f2
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 10
+    guid: -972185299
+    name: Clothes 9
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 9
+      frameIndex: 0
+      cellRect:
+        x: 488
+        y: 169
+        width: 366
+        height: 377
+      spriteId: d8e6b75751725cf4b8f577763c4f6408
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 11
+    guid: -972185711
+    name: Clothes 8
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 8
+      frameIndex: 0
+      cellRect:
+        x: 496
+        y: 169
+        width: 357
+        height: 373
+      spriteId: 5fe25fce210661a4ba2d310cbb445fc2
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 12
+    guid: -972187691
+    name: Clothes 7
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 7
+      frameIndex: 0
+      cellRect:
+        x: 496
+        y: 169
+        width: 357
+        height: 375
+      spriteId: 80a14a4c20f7c7d44ae1758ebecfab94
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 13
+    guid: -972188095
+    name: Clothes 6
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 6
+      frameIndex: 0
+      cellRect:
+        x: 499
+        y: 170
+        width: 317
+        height: 385
+      spriteId: 6343778a6fe1b1442ab6619ac5fca36f
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 14
+    guid: -972186883
+    name: Clothes 5
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 5
+      frameIndex: 0
+      cellRect:
+        x: 477
+        y: 169
+        width: 349
+        height: 346
+      spriteId: 005b5e0d416626249b5501c07168760f
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 15
+    guid: -972187287
+    name: Clothes 4
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 4
+      frameIndex: 0
+      cellRect:
+        x: 494
+        y: 169
+        width: 332
+        height: 369
+      spriteId: 1ff457f868eb89046b5e0a31f77b5899
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 16
+    guid: -972189259
+    name: Clothes 3
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 3
+      frameIndex: 0
+      cellRect:
+        x: 496
+        y: 169
+        width: 357
+        height: 373
+      spriteId: 905f2807faeaf7f4d9c93e004ebe9353
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 17
+    guid: -972189687
+    name: Clothes 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 2
+      frameIndex: 0
+      cellRect:
+        x: 479
+        y: 163
+        width: 441
+        height: 380
+      spriteId: eb8b4dcb753e0f94191687d685937e78
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 18
+    guid: -972188499
+    name: Clothes 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Clothes 1
+      frameIndex: 0
+      cellRect:
+        x: 496
+        y: 170
+        width: 356
+        height: 370
+      spriteId: 43e585ce4082aa5459bf0f76cb0df020
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 19
+    guid: 1574482870
+    name: Hair 12
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 12
+      frameIndex: 0
+      cellRect:
+        x: 571
+        y: 538
+        width: 165
+        height: 170
+      spriteId: cc44230a6ccff664488ce6d7f7ea2ef4
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 20
+    guid: 1574482444
+    name: Hair 11
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 11
+      frameIndex: 0
+      cellRect:
+        x: 649
+        y: 675
+        width: 20
+        height: 41
+      spriteId: f1807ee6bef571541990db76dddbd047
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 21
+    guid: 1574482078
+    name: Hair 10
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 10
+      frameIndex: 0
+      cellRect:
+        x: 578
+        y: 547
+        width: 152
+        height: 163
+      spriteId: db064db54b70bec44b703f2192bbf465
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 22
+    guid: 912692405
+    name: Hair 9
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 9
+      frameIndex: 0
+      cellRect:
+        x: 587
+        y: 613
+        width: 133
+        height: 107
+      spriteId: 645b9ba4a772575409f4bf294ddc249d
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 23
+    guid: 1947625749
+    name: Hair 8
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 8
+      frameIndex: 0
+      cellRect:
+        x: 547
+        y: 529
+        width: 215
+        height: 177
+      spriteId: b4096bc4f31e7e744adfe62208bd0385
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 24
+    guid: -1778110003
+    name: Hair 7
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 7
+      frameIndex: 0
+      cellRect:
+        x: 583
+        y: 622
+        width: 141
+        height: 87
+      spriteId: cb93bd4006a77ae4eb47b9b18f808361
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 25
+    guid: -743176659
+    name: Hair 6
+    layerFlags: 1
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 6
+      frameIndex: 0
+      cellRect:
+        x: 590
+        y: 591
+        width: 139
+        height: 121
+      spriteId: 5c3d4550ea9323b4fb8c7a6b826b8e5b
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 26
+    guid: 446990605
+    name: Hair 5
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 5
+      frameIndex: 0
+      cellRect:
+        x: 593
+        y: 590
+        width: 124
+        height: 119
+      spriteId: 7b184f2cd513a9144a05ab3e72c3b96a
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 27
+    guid: 1481923949
+    name: Hair 4
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 4
+      frameIndex: 0
+      cellRect:
+        x: 598
+        y: 600
+        width: 115
+        height: 98
+      spriteId: b0f8e0d02afd77541af217ccdfb03166
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 28
+    guid: -1622876091
+    name: Hair 3
+    layerFlags: 1
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 3
+      frameIndex: 0
+      cellRect:
+        x: 572
+        y: 529
+        width: 147
+        height: 188
+      spriteId: dc0c7e027f9554e4697efcbd943782e6
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 29
+    guid: -587942747
+    name: Hair 2
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Hair 2
+      frameIndex: 0
+      cellRect:
+        x: 544
+        y: 453
+        width: 199
+        height: 255
+      spriteId: 84d86e66f5d3cc14099e085d622e09b4
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 30
+    guid: 602224517
+    name: Hair 1
+    layerFlags: 3
+    layerType: 0
+    blendMode: 1
+    cells:
+    - name: Hair 1
+      frameIndex: 0
+      cellRect:
+        x: 595
+        y: 615
+        width: 121
+        height: 51
+      spriteId: d0550dbbc09a0fc4ca3eb10fda80bd42
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 31
+    guid: -1421758743
+    name: Cybernetic Neural Interface
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cybernetic Neural Interface
+      frameIndex: 0
+      cellRect:
+        x: 601
+        y: 613
+        width: 19
+        height: 43
+      spriteId: 3cd4bd85432dbc645b98d89770e724ec
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 32
+    guid: -1108848921
+    name: Cybernetic Eye
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cybernetic Eye
+      frameIndex: 0
+      cellRect:
+        x: 601
+        y: 595
+        width: 54
+        height: 46
+      spriteId: 2b89bd4a092c9a74f941722d6200e0c4
+    linkedCells: []
+    parentIndex: -1
+  - layerIndex: 33
+    guid: -1315663435
+    name: Cybernetic Arm
+    layerFlags: 3
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Cybernetic Arm
+      frameIndex: 0
+      cellRect:
+        x: 236
+        y: 148
+        width: 727
+        height: 305
+      spriteId: c04f9e593a9f2094b855aafa80581f6f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 1280, y: 720}
